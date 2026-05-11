@@ -24,12 +24,17 @@
 # 📊 GitHub Stats:
 
 ### My Contribution Graph:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMendiratta-18&theme=github-dark" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMendiratta-18&theme=github-dark&area=true" width="100%" />
 
-### GitHub Metrics:
+### My GitHub Metrics:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitMendiratta-18&show_icons=true&theme=dark&count_private=true" width="48%" />
+  <img src="https://metrics.lecoq.io/HarshitMendiratta-18?base=header,activity,community,repositories,metadata&config.timezone=Asia/Kolkata" width="100%" />
+</p>
+
+### Streak & Languages:
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=dark" width="48%" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=dark" width="48%" />
 </p>
 
 ---
