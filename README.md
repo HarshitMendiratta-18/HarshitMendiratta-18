@@ -26,14 +26,14 @@
 ### My Contribution Graph:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMendiratta-18&theme=github-dark&area=true" width="100%" />
 
-### Profile Summary:
+### Statistics & Streak:
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitMendiratta-18&theme=2077" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=dark" width="48%" />
 </p>
 
 ### Language Distribution:
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HarshitMendiratta-18&theme=2077" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=dark&hide_progress=false&v=cache_bust" width="400" />
 
 ---
 <p align="center">
