@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 💫 About Me:<br>🔭 I’m currently working on: A high-performance personal portfolio to showcase the intersection of UI design and data.<br>👯 I’m looking to collaborate on: Open-source Frontend frameworks or beginner-friendly Machine Learning research projects.<br>🌱 I’m currently learning: Advanced Python for ML, Deep Learning fundamentals, and complex JavaScript patterns.<br>💬 Ask me about: HTML5, CSS3,JS, building responsive layouts, and my journey into AI.<br>⚡ Fun fact: Just like being a Goalkeeper on the football pitch, I’m the last line of defense when it comes to catching bugs and ensuring UI consistency.
 
 
