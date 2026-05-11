@@ -9,11 +9,11 @@
 
 # 📊 GitHub Stats:
 
-![Harshit's Stats](https://github-readme-stats.vercel.app/api?username=HarshitMendiratta-18&show_icons=true&theme=dark&count_private=true&v=1)
+![Harshit's Stats](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=HarshitMendiratta-18&show_icons=true&theme=dark&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=dark&v=1)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=dark&v=1)
+![Top Langs](https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=dark)
 
 ---
 <p align="center">
