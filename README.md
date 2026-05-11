@@ -1,41 +1,18 @@
 # 💫 About Me:
-🔭 I’m currently working on: A modern personal portfolio website to showcase my HTML/CSS skills.<br>👯 I’m looking to collaborate on: Beginner-friendly open-source Frontend projects or ML datasets.<br>🌱 I’m currently learning: The fundamentals of Machine Learning and advanced JavaScript.<br>💬 Ask me about: HTML, CSS, and how I built my first few web projects.<br>⚡ Fun fact: I am bridging the gap between beautiful UI design and the power of Machine Learning.
+# 💫 About Me:<br>🔭 I’m currently working on: A modern personal portfolio website to showcase my HTML/CSS skills.<br>👯 I’m looking to collaborate on: Beginner-friendly open-source Frontend projects or ML datasets.<br>🌱 I’m currently learning: The fundamentals of Machine Learning and advanced JavaScript.<br>💬 Ask me about: HTML, CSS, and how I built my first few web projects.<br>⚡ Fun fact: I am bridging the gap between beautiful UI design and the power of Machine Learning.<br><br>## 🌐 Socials:<br><p align="left"><br><a href="https://instagram.com/harshit_264_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a><br><a href="https://linkedin.com/in/harshit-mendiratta-2aba03268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a><br><a href="mailto:harshitmendiratta41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a><br></p><br><br># 💻 Tech Stack:<br><p align="left"><br><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /><br><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /><br><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" /><br><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" /><br><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" /><br><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" /><br><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /><br></p><br><br># 📊 GitHub Stats:<br><br>### My Contribution Graph:<br><img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMendiratta-18&theme=github-dark&area=true" width="100%" /><br><br>### Statistics & Streak:<br><p align="left"><br>  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitMendiratta-18&theme=2077" width="48%" /><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=dark" width="48%" /><br></p><br><br>### Language Distribution:<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=dark&hide_progress=false&v=cache_bust" width="400" /><br><br>---<br><p align="center"><br>  <img src="https://visitcount.itsvg.in/api?id=HarshitMendiratta-18&icon=0&color=0" /><br></p>
+
 
 ## 🌐 Socials:
-<p align="left">
-<a href="https://instagram.com/harshit_264_18" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://linkedin.com/in/harshit-mendiratta-2aba03268/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:harshitmendiratta41@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshitmendiratta41@gmail.com) 
 
 # 💻 Tech Stack:
-<p align="left">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
-
-### My Contribution Graph:
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMendiratta-18&theme=github-dark&area=true" width="100%" />
-
-### Statistics & Streak:
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HarshitMendiratta-18&theme=2077" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=dark" width="48%" />
-</p>
-
-### Language Distribution:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=dark&hide_progress=false&v=cache_bust" width="400" />
+![](https://github-readme-stats.shion.dev/api?username=HarshitMendiratta-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=HarshitMendiratta-18&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshitMendiratta-18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=HarshitMendiratta-18&icon=0&color=0" />
-</p>
+[![](https://komarev.com/ghpvc/?username=HarshitMendiratta-18&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
