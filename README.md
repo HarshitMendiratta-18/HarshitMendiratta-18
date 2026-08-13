@@ -1,6 +1,6 @@
-<!-- 3D/Animated Header GIF (Replace this URL with a 3D animated tech loop of your choice) -->
+<!-- Failsafe Animated Header (Hosted on a reliable server) -->
 <div align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/7475318/media/13f02fc07f0f63124b6eaeb72e007d4b.gif" width="100%" alt="3D Tech Animation Header" style="border-radius: 15px; box-shadow: 0px 10px 20px rgba(0, 229, 255, 0.5);">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/assets/banner-3d.svg" width="100%" alt="3D Banner">
 </div>
 
 <br />
@@ -14,7 +14,7 @@
 
 <br />
 
-<!-- Glowing Badges -->
+<!-- Standard GitHub Badges (These almost never fail) -->
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
@@ -42,7 +42,7 @@
 
 <br />
 
-<!-- 3D Skill Icons (These naturally render with a dimensional drop-shadow) -->
+<!-- 3D Skill Icons -->
 <h2 align="center">🧊 Tech Arsenal</h2>
 <div align="center">
   <a href="https://skillicons.dev">
@@ -52,17 +52,17 @@
 
 <br />
 
-<!-- Animated Stats Widget -->
+<!-- Cache-Busted Stats Widgets -->
 <h2 align="center">📈 GitHub Dynamics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitMendiratta-18&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=70A5FD&text_color=a6a6a6&bg_color=0d1117&border_color=00E5FF" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=HarshitMendiratta-18&theme=tokyonight&fire=00E5FF&ring=70A5FD&currStreakLabel=00E5FF&background=0d1117&border_color=00E5FF" height="195" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarshitMendiratta-18&show_icons=true&theme=tokyonight&title_color=00E5FF&icon_color=70A5FD&text_color=a6a6a6&bg_color=0d1117&border_color=00E5FF&cache_seconds=1800&v=1" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitMendiratta-18&theme=tokyonight&fire=00E5FF&ring=70A5FD&currStreakLabel=00E5FF&background=0d1117&border_color=00E5FF&cache_seconds=1800&v=1" height="195" alt="GitHub Streak" />
 </div>
 
 <br />
 
 <!-- Let's Connect -->
-<h2 align="center">📫 Comm Link</h2>
+<h2 align="center">📫 Common Link</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/harshit-mendiratta18">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" />
