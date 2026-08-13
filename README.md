@@ -1,144 +1,391 @@
+<!-- =========================================================
+     🌸 HARSHIT MENDIRATTA — GITHUB PROFILE README
+     Replace all [PLACEHOLDER] values with your information.
+========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=220&section=header&text=Hi%20There,%20I'm%20Harshit%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+<!-- 🌗 Responsive Light/Dark Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="[DARK_BANNER_URL]">
+  <source media="(prefers-color-scheme: light)" srcset="[LIGHT_BANNER_URL]">
+  <img src="[LIGHT_BANNER_URL]" alt="[Harshit Mendiratta] GitHub Banner" width="100%">
+</picture>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=CS+Student;Frontend+%2B+Machine+Learning+Enthusiast;Building+with+Python+%26+JavaScript;Always+learning%2C+always+shipping" alt="Typing SVG" />
+<br><br>
+
+<!-- 👋 Main Heading -->
+<h1>
+  Hey there, I'm [Harshit Mendiratta] 👋
+</h1>
+
+<h3>
+  [Your Professional Tagline]
+</h3>
+
+<!-- ⌨️ Animated Typing -->
+<a href="[GITHUB_URL]">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=[Full+Stack+Developer];[Software+Developer];[AI+%26+ML+Enthusiast];[Open+Source+Contributor];[Problem+Solver];[Building+Something+Amazing]"
+    alt="Typing SVG"
+  />
 </a>
 
-<br/>
+<br><br>
 
-<img src="https://img.shields.io/badge/Open%20to%20Work-9D4EDD?style=for-the-badge&logo=briefcase&logoColor=white" />
+<!-- 🌸 Pink GitHub Badges -->
+<a href="[GITHUB_URL]">
+  <img src="https://img.shields.io/github/followers/[GITHUB_USERNAME]?style=for-the-badge&logo=github&logoColor=white&label=FOLLOWERS&color=EF93C4&labelColor=1a1a1a" alt="GitHub Followers">
+</a>
+&nbsp;
+<a href="[GITHUB_URL]">
+  <img src="https://img.shields.io/github/stars/[GITHUB_USERNAME]?style=for-the-badge&logo=github&logoColor=white&label=STARS&color=F8BBD0&labelColor=1a1a1a" alt="GitHub Stars">
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS" alt="Profile Views">
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=HarshitMendiratta-18&label=Profile%20Views&color=9D4EDD&style=flat" />
-<img src="https://img.shields.io/github/followers/HarshitMendiratta-18?label=Followers&style=flat&color=9D4EDD" />
+<!-- 🔗 Quick Links -->
+<a href="[LINKEDIN_URL]">
+  <img src="https://img.shields.io/badge/LinkedIn-[LinkedIn]-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+&nbsp;
+<a href="mailto:[EMAIL_ADDRESS]">
+  <img src="https://img.shields.io/badge/Email-[EMAIL_ADDRESS]-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 </div>
 
-<br/>
+<br>
 
-## 👋 Who I Am
+---
 
-```typescript
-const harshit = {
-  title: "CS Student",
-  stack: {
-    languages: ["C", "C++", "Java", "Python", "JavaScript", "HTML5", "CSS3"],
-    frontend: ["HTML5", "CSS3", "JavaScript", "React"],
-    backendAndInfra: ["MySQL", "Netlify", "Vercel", "Render"],
-    cloud: ["Firebase", "Vercel", "Netlify"],
-    aiAndDb: ["Python", "NumPy", "Pandas", "Matplotlib", "scikit-learn", "PyTorch", "MySQL"],
-    devTools: ["Figma", "Canva", "Git", "GitHub"],
-  },
-  launchedProjects: ["Machine-learning", "frontend-project"],
-  certifications: [], // none listed yet
-  status: "Learning ML fundamentals & sharpening frontend skills",
-  openTo: ["Internships", "Frontend Roles", "ML/AI Collaborations", "Open Source"],
-};
-```
+## 🌸 About Me
 
-<br/>
+<table align="center">
+<tr>
+<td width="65%" valign="middle">
 
-## 🚀 Featured Projects
+### Hey! I'm [Harshit Mendiratta] 🚀
 
-### 🔹 Machine-learning
+I'm a passionate **[Full Stack Developer / Software Developer]** focused on building modern, scalable, and user-friendly digital experiences.
 
-Personal repository for learning Machine Learning with Python — practice problems, notebooks, and solutions.
+- 💻 Currently working on **[CURRENT_PROJECT / CURRENT_FOCUS]**
+- 🌱 Currently learning **[TECHNOLOGIES YOU ARE LEARNING]**
+- 🚀 Interested in **[WEB DEVELOPMENT / AI / SYSTEM DESIGN / OPEN SOURCE]**
+- 🧠 Practicing **[DSA / COMPETITIVE PROGRAMMING]**
+- 🔭 Building **[YOUR PROJECT / PRODUCT]**
+- 🤝 Open to collaborating on **[OPEN SOURCE / STARTUPS / INTERESTING PROJECTS]**
+- 💬 Ask me about **[YOUR CORE SKILLS]**
+- ⚡ Fun fact: **[YOUR FUN FACT]**
+- 📫 Reach me at **[EMAIL_ADDRESS]**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitMendiratta-18&repo=Machine-learning&theme=nord&border_color=9D4EDD&title_color=9D4EDD&text_color=c9d1d9&bg_color=0d1117" />
+<br>
 
-| Layer | Technology |
-|---|---|
-| Language | Python |
-| Notebooks | Jupyter Notebook |
-| Libraries | NumPy, Pandas, scikit-learn, Matplotlib |
+> *"Code. Create. Learn. Repeat."* 💗
 
-🔗 **Code:** [github.com/HarshitMendiratta-18/Machine-learning](https://github.com/HarshitMendiratta-18/Machine-learning)
+</td>
 
-<br/>
+<td width="35%" align="center">
 
-### 🔹 frontend-project
+<img
+  src="[ABOUT_ME_IMAGE_URL]"
+  width="280"
+  alt="[Harshit Mendiratta]"
+/>
 
-A collection of frontend mini-projects — including a JS Drum Kit, JS Clock, and an E-Commerce Website — built with HTML, CSS, and JavaScript.
+</td>
+</tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=HarshitMendiratta-18&repo=frontend-project&theme=nord&border_color=9D4EDD&title_color=9D4EDD&text_color=c9d1d9&bg_color=0d1117" />
+<br>
 
-| Layer | Technology |
-|---|---|
-| Structure | HTML5 |
-| Styling | CSS3 |
-| Interactivity | JavaScript |
-
-🔗 **Code:** [github.com/HarshitMendiratta-18/frontend-project](https://github.com/HarshitMendiratta-18/frontend-project)
-
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-**Backend / Infra**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,netlify,vercel" />
-
-**Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,vercel,netlify" />
-
-**AI / DB**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,mysql" />
-
-**Dev Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=figma,git,github" />
-
-<br/>
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HarshitMendiratta-18&show_icons=true&theme=nord&border_color=9D4EDD&title_color=9D4EDD&icon_color=9D4EDD&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitMendiratta-18&layout=compact&theme=nord&border_color=9D4EDD&title_color=9D4EDD&text_color=c9d1d9&bg_color=0d1117&hide_border=false" height="165"/>
+### 💻 Languages
 
-<img src="https://streak-stats.demolab.com?user=HarshitMendiratta-18&theme=nord&border=9D4EDD&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" />
-
-</div>
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HarshitMendiratta-18&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshitMendiratta-18&theme=react-dark&hide_border=true&color=9D4EDD&line=9D4EDD&point=ffffff" />
-</div>
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/harshit-mendiratta18/">
-  <img src="https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript&theme=dark" />
 </a>
-<a href="mailto:harshitmendiratta41@gmail.com">
-  <img src="https://img.shields.io/badge/Email-9D4EDD?style=for-the-badge&logo=gmail&logoColor=white" />
+
+<br><br>
+
+### 🌐 Frontend
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,redux&theme=dark" />
+</a>
+
+<br><br>
+
+### ⚙️ Backend & Databases
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,firebase&theme=dark" />
+</a>
+
+<br><br>
+
+### ☁️ Tools & DevOps
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode,figma&theme=dark" />
+</a>
+
+<br><br>
+
+### 🤖 AI / Data
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9D4EDD&height=120&section=footer" width="100%"/>
+<br>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<a href="[GITHUB_URL]">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    alt="[Harshit Mendiratta] GitHub Stats"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<!-- Top Languages -->
+<a href="[GITHUB_URL]">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&hide_border=true&title_color=EF93C4&text_color=F8BBD0&bg_color=0D1117"
+    alt="Top Languages"
+  />
+</a>
+
+<br><br>
+
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=[GITHUB_USERNAME]&theme=dark&hide_border=true&background=0D1117&ring=EF93C4&fire=FF69B4&currStreakLabel=F8BBD0&sideLabels=F8BBD0&dates=F8BBD0&currStreakNum=EF93C4&sideNums=EF93C4"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<!-- Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB_USERNAME]&bg_color=0D1117&color=F8BBD0&line=EF93C4&point=FF69B4&area=true&hide_border=true"
+  width="95%"
+  alt="GitHub Activity Graph"
+/>
+
+</div>
+
+<br>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--
+  GitHub Action required:
+  Create:
+  .github/workflows/snake.yml
+
+  Use the following workflow:
+
+  name: Generate Snake
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: [GITHUB_USERNAME]
+            outputs: |
+              dist/github-contribution-grid-snake.svg?color_snake=EF93C4&color_dots=#F8BBD0,#F8BBD0,#EF93C4,#FF69B4,#EF93C4
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            build_dir: dist
+          env:
+            GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+            BUILD_DIR: dist
+-->
+
+<img
+  src="https://raw.githubusercontent.com/[GITHUB_USERNAME]/[GITHUB_USERNAME]/output/github-contribution-grid-snake.svg"
+  alt="GitHub Contribution Snake"
+  width="95%"
+/>
+
+</div>
+
+<br>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="[PROJECT_1_URL]">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_1_REPOSITORY]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    alt="[PROJECT_1_NAME]"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="[PROJECT_2_URL]">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_2_REPOSITORY]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    alt="[PROJECT_2_NAME]"
+  />
+</a>
+
+<br><br>
+
+<a href="[PROJECT_3_URL]">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_3_REPOSITORY]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    alt="[PROJECT_3_NAME]"
+  />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="[PROJECT_4_URL]">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=[GITHUB_USERNAME]&repo=[PROJECT_4_REPOSITORY]&hide_border=true&title_color=EF93C4&icon_color=FF69B4&text_color=F8BBD0&bg_color=0D1117"
+    alt="[PROJECT_4_NAME]"
+  />
+</a>
+
+</div>
+
+<br>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+  src="https://github-profile-trophy.vercel.app/?username=[GITHUB_USERNAME]&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"
+  width="95%"
+  alt="GitHub Trophies"
+/>
+
+</div>
+
+<br>
+
+---
+
+## 📈 Coding Journey
+
+<div align="center">
+
+| 🎯 Goal | 🚀 Status |
+|:---:|:---:|
+| Master Data Structures & Algorithms | [IN PROGRESS] |
+| Build Production-Ready Projects | [IN PROGRESS] |
+| Contribute to Open Source | [IN PROGRESS] |
+| Learn System Design | [IN PROGRESS] |
+| Build AI-Powered Applications | [IN PROGRESS] |
+| Prepare for Top Tech Companies | [IN PROGRESS] |
+
+</div>
+
+<br>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in connecting with developers, builders, recruiters, and people working on exciting ideas.
+
+<br>
+
+<a href="[LINKEDIN_URL]">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+&nbsp;
+
+<a href="mailto:[EMAIL_ADDRESS]">
+  <img
+    src="https://img.shields.io/badge/Gmail-[EMAIL_ADDRESS]-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
+</a>
+
+&nbsp;
+
+<a href="[PORTFOLIO_URL]">
+  <img
+    src="https://img.shields.io/badge/Portfolio-Visit-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white"
+    alt="Portfolio"
+  />
+</a>
+
+&nbsp;
+
+<a href="[GITHUB_URL]">
+  <img
+    src="https://img.shields.io/badge/GitHub-Follow-EF93C4?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<br><br>
+
+📧 **[EMAIL_ADDRESS]**
+
+🔗 **[LINKEDIN_URL]**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+### 💗 Thanks for visiting my profile!
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:EF93C4,50:F8BBD0,100:FF69B4&height=140&section=footer&text=[THANKS%20FOR%20VISITING]&fontSize=25&fontColor=ffffff&animation=twinkling"
+  width="100%"
+  alt="Footer"
+/>
+
+</div>
