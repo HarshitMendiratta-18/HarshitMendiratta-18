@@ -8,7 +8,7 @@
 <!-- Animated Holographic Typing Text -->
 <div align="center">
   <a href="https://github.com/HarshitMendiratta-18">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Ayush+Rai;BTech+IT+Student;Hackathon+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hey,+I'm+Harshit+Mendiratta;BTech+IT+Student;Hackathon+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
 
